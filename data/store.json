@@ -1,0 +1,37 @@
+{
+  "spaces": [
+    {
+      "id": "room-atlas",
+      "name": "Atlas Training Room",
+      "type": "room",
+      "capacity": 20,
+      "amenities": ["Projector", "Wi-Fi", "Whiteboard"],
+      "dailyRate": 12000
+    },
+    {
+      "id": "room-orion",
+      "name": "Orion Meeting Room",
+      "type": "room",
+      "capacity": 8,
+      "amenities": ["Display", "Wi-Fi", "Video conferencing"],
+      "dailyRate": 7000
+    },
+    {
+      "id": "hall-nova",
+      "name": "Nova Auditorium",
+      "type": "auditorium",
+      "capacity": 150,
+      "amenities": ["Stage", "Sound system", "Projector"],
+      "dailyRate": 35000
+    },
+    {
+      "id": "desk-focus-01",
+      "name": "Focus Desk 01",
+      "type": "desk",
+      "capacity": 1,
+      "amenities": ["Desk", "Chair", "Wi-Fi"],
+      "dailyRate": 2000
+    }
+  ],
+  "bookings": []
+}
